@@ -1,0 +1,19 @@
+{
+  "semantics": [
+    {
+      "name": "Text",
+      "type": "Text",
+      "widget": "html",
+      "label": "Text",
+      "tags": [
+        "strong",
+        "em",
+        "del",
+        "br",
+        "p",
+        "a",
+        "h2",
+        "h3"
+      ]
+    }
+  ]
